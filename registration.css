@@ -1,0 +1,13 @@
+.container{
+    background-color: whitesmoke;
+    margin:auto;
+    padding: 10px;
+    width:50%;
+
+}
+.signin{
+    background-color: rgb(138,8,8);
+    margin:auto;
+    padding: 10px;
+    width:50%;
+}
